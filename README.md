@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xEDANx
+- 👋 Hi, I’m Vedant
 - 👀 I’m interested in aritificial intelligence and robotics
 - 🌱 I’m currently pursuing btech in aritificial intelligence
 - 💞️ I’m looking to collaborate with microsoft
