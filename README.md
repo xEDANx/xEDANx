@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Vedant
-- 👀 I’m interested in aritificial intelligence and robotics
-- 🌱 I’m currently pursuing btech in aritificial intelligence
-- 💞️ I’m looking to collaborate with microsoft
-- 📫 How to reach me im.vedantsharma@gmail.com
+- 👀 I’m interested in Artificial intelligence and robotics
+- 🌱 I’m currently pursuing Btech in Artificial intelligence
+
+Let's Connect! 🌐
+📫 Reach out: im.vedantsharma@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/vedantzl
 
 <!---
 xEDANx/xEDANx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
