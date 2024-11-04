@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vedant
-- 👀 I’m interested in Artificial intelligence and robotics
+- 👀 I’m interested in Artificial intelligence and Machine learning
 - 🌱 I’m currently pursuing Btech in Artificial intelligence
 
 Let's Connect! 🌐
